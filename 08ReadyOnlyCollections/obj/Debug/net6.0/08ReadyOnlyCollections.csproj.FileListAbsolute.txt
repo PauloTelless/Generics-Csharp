@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\bin\Debug\net6.0\08ReadyOnlyCollections.exe
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\bin\Debug\net6.0\08ReadyOnlyCollections.deps.json
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\bin\Debug\net6.0\08ReadyOnlyCollections.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\bin\Debug\net6.0\08ReadyOnlyCollections.dll
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\bin\Debug\net6.0\08ReadyOnlyCollections.pdb
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.dll
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\refint\08ReadyOnlyCollections.dll
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.pdb
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\08ReadyOnlyCollections.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\08ReadyOnlyCollections\obj\Debug\net6.0\ref\08ReadyOnlyCollections.dll

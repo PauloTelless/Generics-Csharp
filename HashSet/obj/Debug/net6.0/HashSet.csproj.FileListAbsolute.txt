@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\HashSet\bin\Debug\net6.0\HashSet.exe
+C:\Users\Paulo\source\repos\Generics\HashSet\bin\Debug\net6.0\HashSet.deps.json
+C:\Users\Paulo\source\repos\Generics\HashSet\bin\Debug\net6.0\HashSet.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\HashSet\bin\Debug\net6.0\HashSet.dll
+C:\Users\Paulo\source\repos\Generics\HashSet\bin\Debug\net6.0\HashSet.pdb
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.dll
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\refint\HashSet.dll
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.pdb
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\HashSet.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\HashSet\obj\Debug\net6.0\ref\HashSet.dll

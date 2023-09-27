@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\05StackUdo\bin\Debug\net6.0\05StackUdo.exe
+C:\Users\Paulo\source\repos\Generics\05StackUdo\bin\Debug\net6.0\05StackUdo.deps.json
+C:\Users\Paulo\source\repos\Generics\05StackUdo\bin\Debug\net6.0\05StackUdo.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\05StackUdo\bin\Debug\net6.0\05StackUdo.dll
+C:\Users\Paulo\source\repos\Generics\05StackUdo\bin\Debug\net6.0\05StackUdo.pdb
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.dll
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\refint\05StackUdo.dll
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.pdb
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\05StackUdo.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\05StackUdo\obj\Debug\net6.0\ref\05StackUdo.dll

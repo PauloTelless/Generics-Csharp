@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\bin\Debug\net6.0\11Exercicio03.exe
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\bin\Debug\net6.0\11Exercicio03.deps.json
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\bin\Debug\net6.0\11Exercicio03.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\bin\Debug\net6.0\11Exercicio03.dll
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\bin\Debug\net6.0\11Exercicio03.pdb
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.dll
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\refint\11Exercicio03.dll
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.pdb
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\11Exercicio03.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\11Exercicio03\obj\Debug\net6.0\ref\11Exercicio03.dll

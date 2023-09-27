@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\bin\Debug\net6.0\07QueueExemplo.exe
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\bin\Debug\net6.0\07QueueExemplo.deps.json
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\bin\Debug\net6.0\07QueueExemplo.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\bin\Debug\net6.0\07QueueExemplo.dll
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\bin\Debug\net6.0\07QueueExemplo.pdb
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.dll
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\refint\07QueueExemplo.dll
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.pdb
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\07QueueExemplo.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\07QueueExemplo\obj\Debug\net6.0\ref\07QueueExemplo.dll

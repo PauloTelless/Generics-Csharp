@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\SortedSet\bin\Debug\net6.0\SortedSet.exe
+C:\Users\Paulo\source\repos\Generics\SortedSet\bin\Debug\net6.0\SortedSet.deps.json
+C:\Users\Paulo\source\repos\Generics\SortedSet\bin\Debug\net6.0\SortedSet.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\SortedSet\bin\Debug\net6.0\SortedSet.dll
+C:\Users\Paulo\source\repos\Generics\SortedSet\bin\Debug\net6.0\SortedSet.pdb
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.dll
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\refint\SortedSet.dll
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.pdb
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\SortedSet.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\SortedSet\obj\Debug\net6.0\ref\SortedSet.dll

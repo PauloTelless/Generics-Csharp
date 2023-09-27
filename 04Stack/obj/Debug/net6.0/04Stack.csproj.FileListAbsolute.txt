@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\Generics\04Stack\bin\Debug\net6.0\04Stack.exe
+C:\Users\Paulo\source\repos\Generics\04Stack\bin\Debug\net6.0\04Stack.deps.json
+C:\Users\Paulo\source\repos\Generics\04Stack\bin\Debug\net6.0\04Stack.runtimeconfig.json
+C:\Users\Paulo\source\repos\Generics\04Stack\bin\Debug\net6.0\04Stack.dll
+C:\Users\Paulo\source\repos\Generics\04Stack\bin\Debug\net6.0\04Stack.pdb
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.dll
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\refint\04Stack.dll
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.pdb
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\04Stack.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\Generics\04Stack\obj\Debug\net6.0\ref\04Stack.dll
